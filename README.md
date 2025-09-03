@@ -167,7 +167,8 @@ lr.predict(x_new)
 
 ```
 ## Output:
-<img width="1069" height="179" alt="Screenshot 2025-09-03 222056" src="https://github.com/user-attachments/assets/e843af44-f399-44c5-bb1f-48c2f3eb7dbb" />
+<img width="1153" height="220" alt="image" src="https://github.com/user-attachments/assets/455d36b8-ad14-41db-bf95-42b39612ab6c" />
+
 
 
 ## Result:
