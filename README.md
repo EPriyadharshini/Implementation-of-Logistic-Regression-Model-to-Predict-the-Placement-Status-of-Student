@@ -70,7 +70,12 @@ data=pd.read_csv('Placement_Data.csv')
 data.head()
 
 ```
-<img width="1038" height="167" alt="Screenshot 2025-09-03 211931" src="https://github.com/user-attachments/assets/e2d9066b-faa9-4825-8d98-7b87ccb7823b" />
+
+
+
+<img width="1099" height="310" alt="image" src="https://github.com/user-attachments/assets/8d9a72bf-848d-492f-826c-81ed7afe8b7b" />
+
+
 
 ```python
 
